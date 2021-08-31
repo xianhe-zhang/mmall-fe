@@ -1,2 +1,2 @@
-# hhmall
+# happymmall
 full stack project
